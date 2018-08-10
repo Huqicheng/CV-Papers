@@ -36,7 +36,7 @@ A related work:: Polygon to Ellipsoid, some known semantic correspondences neede
 
 ## Definitions
 
-#### S-Procedure
+#### 1. S-Procedure
 Let F1 and F2 be symmetric matrices, g1 and g2 be vectors and h1 and h2 be real numbers. Assume that there is some x0 such that the strict inequality ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/fd0ff7103761124c95d8e2a1ec19fbd773599f4b) holds. Then the implication
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/92f6a24cb68cf7417dbf1a7117a342160d104ea4)
@@ -46,7 +46,7 @@ is positive semi-definite.
 
 In this work, this method is used for proving proposition 4.2
 
-#### Schur Complement
+#### 2. Schur Complement
 Let X be a symmetric matrix given by
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/93ffca64422c591e51d4142e4c182676a6b2dced)
@@ -59,8 +59,19 @@ and X/C be the Schur complement of C in X, i.e.
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/6891991eb7c3df541522e549d9abe1758b681d79)
 
+Then
+
+X is positive definite if and only if A and X/A are both positive definite:
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/8d8713721d4ed564d874c54bfbabb131fbe5b464)
+
+If A is positive definite, then X is positive semidefinite if and only if X/A is positive semidefinite:
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/08271679952389c393687b617e2464ba7d0b92c3)
+
 In this work, this method is used for obtaining the equivalence in propostion 4.3
-#### Ellipsoid
+
+#### 3. Ellipsoid
 
 #### Outer Ellipsoid / Inner Ellipsoid
 
