@@ -32,3 +32,18 @@ To speed up the BnB optimization, Mixed Integer Programming (MIP) / A*-search ar
 It's a more general framework to handle almost all of transformations.
 
 A related work:: Polygon to Ellipsoid, some known semantic correspondences needed and do not use consensus optimization.
+
+
+## Definitions
+
+#### S-Procedure
+
+#### Schur Complement
+
+#### Ellipsoid
+
+#### Outer Ellipsoid / Inner Ellipsoid
+
+
+
+
