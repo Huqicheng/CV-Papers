@@ -42,6 +42,7 @@ Let F1 and F2 be symmetric matrices, g1 and g2 be vectors and h1 and h2 be real 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/92f6a24cb68cf7417dbf1a7117a342160d104ea4)
 holds if and only if there exists some nonnegative number λ such that
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/e7efec5d5b2d3382738518b7ab263798eabe63c6)
+is positive semi-definite.
 
 #### Schur Complement
 
