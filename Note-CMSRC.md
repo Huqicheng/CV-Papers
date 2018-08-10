@@ -44,8 +44,22 @@ holds if and only if there exists some nonnegative number λ such that
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/e7efec5d5b2d3382738518b7ab263798eabe63c6)
 is positive semi-definite.
 
-#### Schur Complement
+In this work, this method is used for proving proposition 4.2
 
+#### Schur Complement
+Let X be a symmetric matrix given by
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/93ffca64422c591e51d4142e4c182676a6b2dced)
+
+Let X/A be the Schur complement of A in X, i.e.
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/901e4958c034bec7b74636ec968a376190a5adf6)
+
+and X/C be the Schur complement of C in X, i.e.
+
+![](https://wikimedia.org/api/rest_v1/media/math/render/svg/6891991eb7c3df541522e549d9abe1758b681d79)
+
+In this work, this method is used for obtaining the equivalence in propostion 4.3
 #### Ellipsoid
 
 #### Outer Ellipsoid / Inner Ellipsoid
