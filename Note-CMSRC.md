@@ -73,8 +73,9 @@ In this work, this method is used for obtaining the equivalence in propostion 4.
 
 #### 3. Ellipsoid
 
-#### Outer Ellipsoid / Inner Ellipsoid
+#### 4. Outer Ellipsoid / Inner Ellipsoid
 
+#### 5. The objective of optimization with constraints
 
 
 
