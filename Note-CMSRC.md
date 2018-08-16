@@ -78,4 +78,11 @@ In this work, this method is used for obtaining the equivalence in propostion 4.
 #### 5. The objective of optimization with constraints
 
 
+## Introduction of SfM
+
+
+
+
+## MIP Solver
+![gurobi](http://www.gurobi.com/resources/getting-started/mip-basics)
 
