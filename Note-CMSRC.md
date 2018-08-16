@@ -84,5 +84,5 @@ In this work, this method is used for obtaining the equivalence in propostion 4.
 
 
 ## MIP Solver
-![gurobi](http://www.gurobi.com/resources/getting-started/mip-basics)
+[gurobi](http://www.gurobi.com/resources/getting-started/mip-basics)
 
