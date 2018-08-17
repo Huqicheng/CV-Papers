@@ -76,7 +76,10 @@ In this work, this method is used for obtaining the equivalence in propostion 4.
 #### 4. Outer Ellipsoid / Inner Ellipsoid
 
 #### 5. The objective of optimization with constraints
+BnB Strategy
 
+lower bound: take inner ellipsoid in target dataset and take outer ellipsoid in source dataset.
+upper bound: take outer ellipsoid in target dataset and take inner ellipsoid in source dataset.
 
 ## Introduction of SfM
 
