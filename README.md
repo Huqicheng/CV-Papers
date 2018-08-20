@@ -12,3 +12,6 @@
 ## 3. Convolutional Seq2Seq Model for Human Dynamics
 
 基于 rnn 的人类motion预测结构
+
+
+#### Note: 2和3的亮点主要在设计了很有效的loss，网络结构上并没有啥很创新的地方。
