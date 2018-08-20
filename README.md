@@ -7,3 +7,8 @@
 ## 2. PointNetVlad
 
 使用端到端学习匹配两个3D点阵，设计思路比较巧妙。
+
+
+## 3. Convolutional Seq2Seq Model for Human Dynamics
+
+基于 rnn 的人类motion预测结构
