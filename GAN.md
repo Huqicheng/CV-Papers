@@ -17,3 +17,12 @@ where z is results of generator and x is the real data.
 ## 2.DCGAN
 
 ## 3. WGAN
+
+#### 3.1 Wasserstein Distance
+
+For improving and stablizing the training process of GAN.
+
+```python
+self.D_loss = - tf.reduce_mean(self.D_real) + tf.reduce_mean(self.D_fake)
+self.G_loss = - tf.reduce_mean(self.D_fake)
+```
