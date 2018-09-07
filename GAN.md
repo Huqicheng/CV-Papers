@@ -4,7 +4,7 @@
 
 #### 1.1 Structure
 
-![GAN](http://ss.csdn.net/p?https://mmbiz.qpic.cn/mmbiz_png/iaTa8ut6HiawCUoIVNsXpWVcLibMiaesQkjxuxMTNqrJJy7A9mNicyyGwqWmKJWUseJgBhlNOKBIOc9B3Gr64umFrJA/0?wx_fmt=png)
+[GAN](http://ss.csdn.net/p?https://mmbiz.qpic.cn/mmbiz_png/iaTa8ut6HiawCUoIVNsXpWVcLibMiaesQkjxuxMTNqrJJy7A9mNicyyGwqWmKJWUseJgBhlNOKBIOc9B3Gr64umFrJA/0?wx_fmt=png)
 
 #### 1.2 Loss
 
